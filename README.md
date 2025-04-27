@@ -54,7 +54,7 @@ devCall is a modern interview platform that combines video conferencing with rea
 ## License 📄
 
 **Copyright Notice**  
-© 2024 [Your Name]. All rights reserved.
+© 2025 Prakhar Gupta. All rights reserved.
 
 This project and its source code are protected under copyright law. No part of this software may be:
 
