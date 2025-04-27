@@ -78,3 +78,5 @@ Permission is hereby granted... [keep full MIT text from your LICENSE file]
 ```bash
 git clone https://github.com/your-username/devcall.git
 cd devcall
+npm install
+npm run dev
